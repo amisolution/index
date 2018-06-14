@@ -54,6 +54,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 |	Bytabit 	| 	[![alt text][web]](https://bytabit.org/)	|  |  | `ACL` `DCD` `DC` `DOM` | 	(dev)	| 	bytabit protocol	| 6 | | | | |
 | 	Catalyst	| 	[![alt text][web]](https://enigmampc.github.io/catalyst/index.html) | [![alt text][github]](https://github.com/enigmampc/catalystweb)	| [![alt text][whitepaper]](https://www.enigma.co/enigma_catalyst.pdf) | | 	(dev - alpha)	| 	enigma protocol	| 	| | | | |
 | 	CDX	| 	[![alt text][web]](https://github.com/YouDex/cdx) | [![alt text][github]](https://github.com/YouDex/cdx)	| [![alt text][whitepaper]](https://github.com/YouDex/cdx/blob/master/CDX_PROTOCOL.pdf) | | 	(proposed)	| 	enigma protocol	| 	| TBC | Ethereum - Youdex Sidechain |  | |
+| 	Coinchangex	| 	[![alt text][web]](https://www.coinchangex.com/) | 	| | | 	(operating)	| 	TBC	| 	| | | | |
 | 	Coinffeine	| 	[![alt text][web]](http://www.coinffeine.com/) | [![alt text][github]](https://github.com/Coinffeine)	| | | 	(dev)	| 	coinffeine protocol	| 	| | | | |
 | 	COMIT	| 	[![alt text][web]](http://www.comit.network/) |	| [![alt text][whitepaper]](http://www.comit.network/doc/COMIT%20white%20paper%20v1.0.2.pdf) | | 	(whitepaper)	| 	comit protocol (cross-chain routing)	|	2 | | | | |
 | 	Cosmos Network	| [![alt text][web]](https://cosmos.network/)	| [![alt text][github]](https://github.com/cosmos) | [![alt text][whitepaper]](https://github.com/cosmos/cosmos/blob/master/DEX.md) | | 	(whitepaper)	| 	interledger protocol	|	| | | | |
@@ -75,6 +76,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | Deviant DEX | [![alt text][web]](http://deviantcoin.io/) | [![alt text][github]](https://github.com/Deviantcoin) |   |   | [(announced)](https://twitter.com/DeviantCoin/status/962108577157562368/) | TBC |   | | | | |
 | DEX |   | [![alt text][github]](https://github.com/ltfschoen/dex) |   |   | (dev) | 0x protocol |   | | | | |
 | Dexex | [![alt text][web]](https://www.dexlab.io/) | [![alt text][github]](https://github.com/dexlab-io) |   |   | (dev) | 0x protocol |   |   |   |   |   |
+| DEXON dex |  [![alt text][web]](https://dexon.io/) | [![alt text][github]](https://github.com/dexon-foundation) |  [![alt text][whitepaper]](https://storage.googleapis.com/dexon-website/DEXON%20Consensus%20Algorithm%2020180530%20Draft%203.pdf) |   | (dev) | TBC |   |   | DEXON | Dexon Foundation |   |
 | dex-simple |   | [![alt text][github]](https://github.com/treverson/dex-simple) |   |   | (prototype) | TBC |   |   |   |   |   |
 | 	Dextroid	| 	[![alt text][web]](https://www.dextroid.io/) |	| | | 	(operating - beta)	| 	0x protocol	| 	| | | | |
 | DEXY | [![alt text][web]](https://www.dexy.exchange/) | [![alt text][github]](https://github.com/DexyProject) |   | `DOB` | (dev) | decentralized exchange protocol |   | | | | |
@@ -93,7 +95,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | Eidoo | [![alt text][web]](https://eidoo.io/) | [![alt text][github]](https://github.com/eidoo) | [![alt text][whitepaper]](https://eidoo.io/white-paper/) | `DCD` | (operating) | multi protocol | 3 | | | | |
 | 	Enclaves	| 	[![alt text][web]](https://enclaves.io) | [![alt text][github]](https://github.com/adamdossa)	| | | 	(operating)	| 	0x protocol	| 	| | Ethereum | | |
 | 	Enigma	| 	[![alt text][web]](https://www.enigma.co/) | [![alt text][github]](https://github.com/enigmampc/)	| [![alt text][whitepaper]](https://www.enigma.co/enigma_full.pdf) | | 	(proposed)	| 	enigma protocol	| 2	| All | All | | |
-| 	EOSfinex	| 	[![alt text][web]](https://eosfinex.com/) |	| | | 	(dev)	| 	eos protocol	| 	| | | | |
+| 	EOSfinex	| 	[![alt text][web]](https://eosfinex.com/) |	| | | 	(dev)	| 	eos protocol	| 	| | EOS | | |
 | 	ERC dEX	| 	[![alt text][web]](https://app.ercdex.com) |	| | | 	(operating)	| 	0x protocol	| 	| | | | |
 | 	Ethen Market	| 	[![alt text][web]](https://ethen.market) | [![alt text][github]](https://github.com/ethenmarket)	| | `FULLY` | (operating)	| 	0x protocol	| 	| | Ethereum | | |
 | 	ETHERC	| 	[![alt text][web]](https://etherc.io/) | [![alt text][github]](https://github.com/ETHERCIO)	| [![alt text][whitepaper]](https://medium.com/@etherc_io/) | `FULLY` | 	(operating)	| 	on-chain protocol	| 	| | | | |
@@ -211,6 +213,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | Tettix | [![alt text][web]](https://tettix.io/) | [![alt text][github]](https://github.com/Tettix/) | [![alt text][whitepaper]](https://medium.com/@TettixDev/details-of-tettix-e5c9f310fa41) | `FULLY` | (dead) | tettix mechanism protocol |   | | | | |
 | 	The 0cean	| 	[![alt text][web]](https://the0cean.com/) |	| | | 	(private beta)	| 	0x protocol	| 	| | | | |
 | 	The World Exchange	| 	[![alt text][web]](https://www.theworldexchange.net/) | [![alt text][github]](https://github.com/pftq/TheWorldExchange/)	| | | 	(operating)	| 	ripple protocol	| 	| | | | |
+| 	Tokena | 	[![alt text][web]](https://tokena.co/) |	| | | 	(dev)	| TBC	| 	| | EOS | | |
 | Token Changer | [![alt text][web]](http://tokenchanger.io/) |   | [![alt text][whitepaper]](https://medium.com/tokenchanger/token-changer-whitepaper-18c0e7227c25) |   | (dev) | multi protocol |   | | | | |
 | Token Jar | [![alt text][web]](https://tokenjar.io/) |   |   | `FULLY` | (operating - kovan test) | 0x protocol |   |   |   |   |   |
 | Tokenlon | [![alt text][web]](https://tokenlon.token.im/tokenlon) | [![alt text][github]](https://github.com/consenlabs/tokenlon-sdk)  |   | `FULLY` | (operating) | 0x protocol & Kyber.Network protocol |   |   |   |   |   |
