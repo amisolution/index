@@ -213,6 +213,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | 	The World Exchange	| 	[![alt text][web]](https://www.theworldexchange.net/) | [![alt text][github]](https://github.com/pftq/TheWorldExchange/)	| | | 	(operating)	| 	ripple protocol	| 	| | | | |
 | Token Changer | [![alt text][web]](http://tokenchanger.io/) |   | [![alt text][whitepaper]](https://medium.com/tokenchanger/token-changer-whitepaper-18c0e7227c25) |   | (dev) | multi protocol |   | | | | |
 | Token Jar | [![alt text][web]](https://tokenjar.io/) |   |   | `FULLY` | (operating - kovan test) | 0x protocol |   |   |   |   |   |
+| Tokenlon | [![alt text][web]](https://tokenlon.token.im/tokenlon) | [![alt text][github]](https://github.com/consenlabs/tokenlon-sdk)  |   | `FULLY` | (operating) | 0x protocol & Kyber.Network protocol |   |   |   |   |   |
 | 	Tokens | 	[![alt text][web]](https://www.tokens.net/) |	| | | 	(dev)	| dynamic trading rights protocol	| 	| | | | |
 | 	Token Store | 	[![alt text][web]](https://token.store) |	| | | 	(operating)	| TBC	|	| | | | |
 | 	Trade.io | 	[![alt text][web]](https://trade.io/) |	| [![alt text][whitepaper]](https://trade.io/whitepaper/ES.pdf) | | 	(dev)	| raiden protocol	| 	| | | | |
@@ -326,6 +327,18 @@ If you know in details or are you the owner/dev of any DEX, please fill the colu
  - [#DEX @ Reddit: https://www.reddit.com/r/Dex/](https://www.reddit.com/r/Dex/) 
 
 # **DECENTRALIZATION RESOURCES**: 
+
+## DEX Order Books:
+
+[https://etherscan.io/orderbooks](https://etherscan.io/orderbooks)
+
+## DEX Order Tracker:
+
+[https://etherscan.io/dextracker](https://etherscan.io/dextracker)
+
+## DEX Trackers Statistics:
+
+[https://etherscan.io/stat/dextracker](https://etherscan.io/stat/dextracker)
 
 ## Protocols for Decentralized Exchange
 
