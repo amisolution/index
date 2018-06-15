@@ -26,6 +26,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | 	Altcoin Exchange	| 	[![alt text][web]](https://www.altcoin.io/) | [![alt text][github]](https://github.com/AltCoinExchange/) | | | 	(dev)	| 	raiden protocol	|	| | | | |
 | ALTTEX | [![alt text][web]](https://alttex.io/) | [![alt text][github]](https://github.com/alttex/Alt-exchange) | [![alt text][whitepaper]](https://alttex.io/WhitePaper_Eng.pdf) |   | (dev) | 0x protocol |   | | | | |
 | 	Amadeus Relay	| 	[![alt text][web]](http://amadeusrelay.org/) | [![alt text][github]](https://github.com/AmadeusRelay)	| | | 	(dev)	| 	0x protocol	| 	| | | | |
+| 	Angel 0x	| 	[![alt text][web]](https://angel0x.com/) |	| | | 	(dev)	| 	0x protocol	| 	| | | | |
 | 	Aphelion	| 	[![alt text][web]](https://aphelion.org/) | [![alt text][github]](https://github.com/aphtoken/)	| [![alt text][whitepaper]](https://aphelion.org/wp.html) | | 	(dev - launch Q1 2018)	| 	deal protocol	| 	| | | | |
 | Aqueduct | [![alt text][web]](https://aqueduct.ercdex.com) | [![alt text][github]](https://github.com/ercdex/aqueduct) | [![alt text][whitepaper]](https://aqueduct.ercdex.com/rest.html) |   | (released) | aqueduct protocol | 2 |   |   |   |   |
 | 	Arbidex	| 	[![alt text][web]](http://arbidex.ch) | [![alt text][github]](https://github.com/Arbidex)	| [![alt text][whitepaper]](https://arbidex.uk.com/assets/wp_en.pdf) | | 	(dev - launch Q4 2018)	| 	TBC	| 	| | | | |
@@ -54,6 +55,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 |	Bytabit 	| 	[![alt text][web]](https://bytabit.org/)	|  |  | `ACL` `DCD` `DC` `DOM` | 	(dev)	| 	bytabit protocol	| 6 | | | | |
 | 	Catalyst	| 	[![alt text][web]](https://enigmampc.github.io/catalyst/index.html) | [![alt text][github]](https://github.com/enigmampc/catalystweb)	| [![alt text][whitepaper]](https://www.enigma.co/enigma_catalyst.pdf) | | 	(dev - alpha)	| 	enigma protocol	| 	| | | | |
 | 	CDX	| 	[![alt text][web]](https://github.com/YouDex/cdx) | [![alt text][github]](https://github.com/YouDex/cdx)	| [![alt text][whitepaper]](https://github.com/YouDex/cdx/blob/master/CDX_PROTOCOL.pdf) | | 	(proposed)	| 	enigma protocol	| 	| TBC | Ethereum - Youdex Sidechain |  | |
+| 	Coinchangex	| 	[![alt text][web]](https://www.coinchangex.com/) | 	| | | 	(operating)	| 	TBC	| 	| | | | |
 | 	Coinffeine	| 	[![alt text][web]](http://www.coinffeine.com/) | [![alt text][github]](https://github.com/Coinffeine)	| | | 	(dev)	| 	coinffeine protocol	| 	| | | | |
 | 	COMIT	| 	[![alt text][web]](http://www.comit.network/) |	| [![alt text][whitepaper]](http://www.comit.network/doc/COMIT%20white%20paper%20v1.0.2.pdf) | | 	(whitepaper)	| 	comit protocol (cross-chain routing)	|	2 | | | | |
 | 	Cosmos Network	| [![alt text][web]](https://cosmos.network/)	| [![alt text][github]](https://github.com/cosmos) | [![alt text][whitepaper]](https://github.com/cosmos/cosmos/blob/master/DEX.md) | | 	(whitepaper)	| 	interledger protocol	|	| | | | |
@@ -75,7 +77,9 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | Deviant DEX | [![alt text][web]](http://deviantcoin.io/) | [![alt text][github]](https://github.com/Deviantcoin) |   |   | [(announced)](https://twitter.com/DeviantCoin/status/962108577157562368/) | TBC |   | | | | |
 | DEX |   | [![alt text][github]](https://github.com/ltfschoen/dex) |   |   | (dev) | 0x protocol |   | | | | |
 | Dexex | [![alt text][web]](https://www.dexlab.io/) | [![alt text][github]](https://github.com/dexlab-io) |   |   | (dev) | 0x protocol |   |   |   |   |   |
+| DEXON dex |  [![alt text][web]](https://dexon.io/) | [![alt text][github]](https://github.com/dexon-foundation) |  [![alt text][whitepaper]](https://storage.googleapis.com/dexon-website/DEXON%20Consensus%20Algorithm%2020180530%20Draft%203.pdf) |   | (dev) | TBC |   |   | DEXON | Dexon Foundation |   |
 | dex-simple |   | [![alt text][github]](https://github.com/treverson/dex-simple) |   |   | (prototype) | TBC |   |   |   |   |   |
+| Dexternal |  [![alt text][web]](https://dexternal.com/) |  |  |  | (dev) | TBC |   |   | Ethereum |   |   |
 | 	Dextroid	| 	[![alt text][web]](https://www.dextroid.io/) |	| | | 	(operating - beta)	| 	0x protocol	| 	| | | | |
 | DEXY | [![alt text][web]](https://www.dexy.exchange/) | [![alt text][github]](https://github.com/DexyProject) |   | `DOB` | (dev) | decentralized exchange protocol |   | | | | |
 | Dexy |   | [![alt text][github]](https://github.com/bokkypoobah/Dexy) |   |   | (dev) | TBC |   | | | | |
@@ -93,7 +97,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | Eidoo | [![alt text][web]](https://eidoo.io/) | [![alt text][github]](https://github.com/eidoo) | [![alt text][whitepaper]](https://eidoo.io/white-paper/) | `DCD` | (operating) | multi protocol | 3 | | | | |
 | 	Enclaves	| 	[![alt text][web]](https://enclaves.io) | [![alt text][github]](https://github.com/adamdossa)	| | | 	(operating)	| 	0x protocol	| 	| | Ethereum | | |
 | 	Enigma	| 	[![alt text][web]](https://www.enigma.co/) | [![alt text][github]](https://github.com/enigmampc/)	| [![alt text][whitepaper]](https://www.enigma.co/enigma_full.pdf) | | 	(proposed)	| 	enigma protocol	| 2	| All | All | | |
-| 	EOSfinex	| 	[![alt text][web]](https://eosfinex.com/) |	| | | 	(dev)	| 	eos protocol	| 	| | | | |
+| 	EOSfinex	| 	[![alt text][web]](https://eosfinex.com/) |	| | | 	(dev)	| 	eos protocol	| 	| | EOS | | |
 | 	ERC dEX	| 	[![alt text][web]](https://app.ercdex.com) |	| | | 	(operating)	| 	0x protocol	| 	| | | | |
 | 	Ethen Market	| 	[![alt text][web]](https://ethen.market) | [![alt text][github]](https://github.com/ethenmarket)	| | `FULLY` | (operating)	| 	0x protocol	| 	| | Ethereum | | |
 | 	ETHERC	| 	[![alt text][web]](https://etherc.io/) | [![alt text][github]](https://github.com/ETHERCIO)	| [![alt text][whitepaper]](https://medium.com/@etherc_io/) | `FULLY` | 	(operating)	| 	on-chain protocol	| 	| | | | |
@@ -106,10 +110,12 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | 	Ethfinex	| 	[![alt text][web]](https://www.ethfinex.com/) |	| | | 	(private beta)	| 	multi protocol	| 4	| | | | |
 | 	Ethos 	| [![alt text][web]](https://www.ethos.io/) |   | [![alt text][whitepaper]](http://www.ethos.io/Ethos_Whitepaper.pdf) | `DCD` `DS` | (dev) | multi protocol (0x - atomic swap) | 6 | | | | |
 | 	EthRoox	| 	[![alt text][web]](https://etheroox.com/) |	| | | 	(operating with issues)	| 	TBC	| 	| | | | |
+| 	everbloom	| 	[![alt text][web]](http://everbloom.co/) |	| | | 	(dev)	| 	multi-protocol	| 	| | Ethereum | | |
 | 	ExchangeN	| 	[![alt text][web]](http://www.exchangen.com/) |	| | | 	(operating with issues)	| 	TBC	| 	| | | | |
 | 	Exchange Union	| 	[![alt text][web]](https://www.exchangeunion.com) | [![alt text][github]](https://github.com/exchangeunion)	| [![alt text][whitepaper]](https://api.exchangeunion.com/pdf/en/ExchangeUnion-WhitePaper.pdf) | `DS` `DOB` `DD` `OPRO` | 	(dev)	| 	exchange union protocol	| 	| All | All | | |
 | Expread | [![alt text][web]](http://expread.io/) |   | [![alt text][whitepaper]](http://expread.io/home/EXPREAD_WhitePaper_Version2.1-final.compressed.pdf) |   | (dev) | payment channels protocol |   | | | | |
 | FairX | [![alt text][web]](https://fairx.io/) | [![alt text][github]](https://github.com/fairxio/) | [![alt text][whitepaper]](https://github.com/fairxio/docs) |   | (dev) | stellar consensus protocol | 6 | | | | |
+| 	Fetch Trading	| 	[![alt text][web]](http://www.fetchtrading.com/) |	| | | 	(dev)	| 	0x protocol	| 	| | | | |
 | 	Flipper0x	| 	[![alt text][web]](https://flipper0x.io/) |	| | | 	(dev)	| 	0x protocol	| 	| | | | |
 | 	Forkdelta	| 	[![alt text][web]](https://forkdelta.github.io) |	[![alt text][github]](https://github.com/forkdelta/) | | | 	(operating)	| 	on-chain protocol	| 	| | | | |
 | 	Freedom Dex	| 	[![alt text][web]](https://freedomdex.io/) |	| | | 	(operating)	| 	TBC	| 	| | | | |
@@ -124,6 +130,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | 	Heat	| 	[![alt text][web]](https://heatwallet.com) |	| | | 	(operating)	| 	asset-to-asset protocol	| 	| | | | |
 | 	Herdius	| 	[![alt text][web]](https://herdius.com/) | [![alt text][web]](https://github.com/herdius)	| [![alt text][whitepaper]](https://herdius.com/whitepaper/Herdius%20Lightpaper.pdf) | | 	(dev)	| 	cross-chain protocol	| 	| | | | |
 | 	Hydra	| 	[![alt text][web]](http://libertaria.world/) |	| | | 	(dev - whitepaper)	| 	hydra protocol	| 2	| | | | |
+| 	HyperDEX	| 	[![alt text][web]](https://github.com/lukechilds/hyperdex) |	| | | 	(dev - private testing phase)	| 	barterdex protocol	| 	| | | | |
 | 	Hodl Hodl	| 	[![alt text][web]](https://hodlhodl.com/) |	| | `DCD` `DSTT` | 	(operating)	|  | 3 | | | | |
 | 	Hodl⚡️co	| 	[![alt text][web]](http://www.hodlco.io) |	| | | 	(dev)	| 	TBC | 6	| | | | |
 | 	IDEX	| 	[![alt text][web]](https://idex.market/) |	| | | 	(operating)	| 	snowglobe protocol	| 	| | | | |
@@ -131,6 +138,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | 	Inbest Network	| 	[![alt text][web]](https://www.inbest.network/) |	| | | 	(ICO)	| 	inbest protocol	| 4	| | | | |
 | Infinity | [![alt text][web]](https://www.hycon.io/) | [![alt text][github]](https://github.com/Team-Hycon) | [![alt text][whitepaper]](https://www.hycon.io/doc/whitepaper_en.pdf) |   | (dev) | spectre protocol |   |   |   |   |   |
 | INSTEX | [![alt text][web]](https://app.instex.io/)|	| | | (operating)	| 	0x protocol	| 	| | Ethereum | | |
+| Interstellar | [![alt text][web]](https://interstellar.exchange/)|	| | `FULLY` | (operating)	| 	stellar protocol	| 	| | Stellar | | |
 | 	Javvy	| 	[![alt text][web]](https://javvy.com/) | [![alt text][github]](https://github.com/javvycrypto)	| [![alt text][whitepaper]](https://javvy.com/wp-content/uploads/2017/09/javvy_crypto-solution-white-paper.pdf) | | 	(dev)	| 	TBC	| 	| | | | |
 | 	JOYSO	| 	[![alt text][web]](https://joyso.io/) |	| | | 	(ICO)	| 	hex protocol	| 3	| | | | |
 | Komodo | [![alt text][web]](https://www.komodoplatform.com/) | [![alt text][github]](https://github.com/KomodoPlatform) | [![alt text][whitepaper]](https://www.komodoplatform.com/en/whitepaper/2018-02-14-Komodo-White-Paper-Full.pdf) |   | (dev) | komodo protocol | 2 | N/A | Komodo | | |
@@ -142,6 +150,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | 	LinkerCoin	| 	[![alt text][web]](https://www.linkercoin.com/) | [![alt text][github]](https://github.com/linkercoinfoundation/Linker-Coin-Project)	| [![alt text][whitepaper]](https://docs.wixstatic.com/ugd/4e7588_4bd05b0a780f42849f44280af1a51189.pdf) | | 	(dev)	| 	linker protocol |	 | | | | |
 | LocalCoinSwap | [![alt text][web]](https://www.localcoinswap.com/) | [![alt text][github]](https://github.com/LocalCoinSwap) | [![alt text][whitepaper]](https://www.localcoinswap.com/LocalCoinSwap_whitepaper_v1.0.pdf) |   | (dev) | lcs protocol |   |   |   |   |   |
 | 	Loopring	| 	[![alt text][web]](https://loopring.org) |	| [![alt text][whitepaper]](https://github.com/Loopring/whitepaper/raw/master/en_whitepaper.pdf) | | 	(dev - launch Q2 2018)	| 	loopring protocol	| 2	| | | | |
+| 	LQDEX	| 	[![alt text][web]](https://lqdex.com) |	| [![alt text][whitepaper]](https://lqdex.com/doc/LQDEX-Whitepaper.pdf) | | 	(dev)	| 	cross-chain protocol	| | | | | |
 | 	Lykke	| 	[![alt text][web]](https://www.lykke.com/exchange) | [![alt text][github]](https://github.com/LykkeCity/)	| [![alt text][whitepaper]](https://www.lykke.com/media/Whitepaper_LykkeExchange.pdf) | | 	(operating)	| 	TBC	| 4	| | | | |
 | 	Mandarin	| 	[![alt text][web]](https://mandarin.top/) |	| | | 	(dead)	| TBC	| 	| | | | |
 | MARKET Protocol | [![alt text][web]](https://www.marketprotocol.io/) | [![alt text][github]](https://github.com/MarketProject/MarketProtocol) | [![alt text][whitepaper]](https://www.marketprotocol.io/wp-content/uploads/MARKET-Protocol-White-Paper.pdf) |   | (dev) | MARKET Protocol |   | Derivatives | Ethereum |   |   |
@@ -152,6 +161,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | MinexDEX | [![alt text][web]](https://minexcoin.com/) | [![alt text][github]](https://github.com/minexcoin) |   |   | [(announced)](https://medium.com/minecoin-blog/mnx-upgrade-roadmap-2018-ed9b01c258cf) | atomic swap |   | | | | |
 | 	Mobidex	| 	[![alt text][web]](http://mobidex.io/) |	| | | 	(dev - private alpha)	| 	0x protocol	| 	| | | | |
 | 	Mothership	| 	[![alt text][web]](https://mothership.cx/) |	| | | 	(dev)	| 	TBC	| 	| | | | |
+| 	MoonDEX	| 	[![alt text][web]](http://moondex.org/) | [![alt text][github]](https://github.com/Moondex)	| | | 	(dev)	| 	TBC	| 	| | | | |
 | 	MyEtherSwap	| 	[![alt text][web]](https://www.myetherswap.com/) |	| | | 	(operating)	| 	TBC	| 	| | | | |
 | 	NEX	| 	[![alt text][web]](https://neonexchange.org/) |	| | | 	(dev - launch Q3 2018)	| 	off-chain protocol	| 	| | | | |
 | 	NextExchange	| 	[![alt text][web]](https://next.exchange/) | [![alt text][github]](https://github.com/NextExchange)	| [![alt text][whitepaper]](https://next.exchange/whitepaper) | | 	(dev)	| 	0x	| 	| | | | |
@@ -198,7 +208,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | 	SingularX	| 	[![alt text][web]](https://ex.singularx.com/) |	| | | 	(operating)	| 	TBC	|	| | | | |
 | 	Smart-Exchange	| 	|	| [![alt text][whitepaper]](https://debris.gitbooks.io/ethchange/content/) | | 	(dev - whitepaper)	| icap protocol | 	| | | | |
 | Snowglobe | [![alt text][web]](https://auroradao.com/faq/) |   |   |   | (dev) | snowglobe protocol | 2 | ERC20 Tokens | Ethereum | | |
-| Star Bit DEX | [![alt text][web]](https://starbitdex.com/) | [![alt text][github]](https://github.com/TsungLi-Wang/Relayer)  |   | `FULLY` `RELAY` | (dev) | 0x protocol |   |   |   |   |   |
+| STAR BITEX | [![alt text][web]](https://www.starbitex.com/) | [![alt text][github]](https://github.com/TsungLi-Wang/Relayer)  |   | `FULLY` `RELAY` | (dev) | 0x protocol |   |   |   |   |   |
 | Stellar | [![alt text][web]](https://www.stellar.org/developers/guides/concepts/exchange.html) | [![alt text][github]](https://github.com/stellar/stellar-protocol) | [![alt text][whitepaper]](https://www.stellar.org/papers/stellar-consensus-protocol.pdf) |   | (live) | stellar consensus protocol | 2 | Stellar Assets | Stellar | | |
 | Stellarport | [![alt text][web]](https://stellarport.io/) |   |   |   | (operating) | stellar consensus protocol |   | | | | |
 | Stellarswap | [![alt text][web]](https://stellarswap.space/) | [![alt text][github]](https://github.com/jonasess/Stellarswap) |   |   | (operating) | stellar consensus protocol |   | | | | |
@@ -211,6 +221,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | Tettix | [![alt text][web]](https://tettix.io/) | [![alt text][github]](https://github.com/Tettix/) | [![alt text][whitepaper]](https://medium.com/@TettixDev/details-of-tettix-e5c9f310fa41) | `FULLY` | (dead) | tettix mechanism protocol |   | | | | |
 | 	The 0cean	| 	[![alt text][web]](https://the0cean.com/) |	| | | 	(private beta)	| 	0x protocol	| 	| | | | |
 | 	The World Exchange	| 	[![alt text][web]](https://www.theworldexchange.net/) | [![alt text][github]](https://github.com/pftq/TheWorldExchange/)	| | | 	(operating)	| 	ripple protocol	| 	| | | | |
+| 	Tokena | 	[![alt text][web]](https://tokena.co/) |	| | | 	(dev)	| TBC	| 	| | EOS | | |
 | Token Changer | [![alt text][web]](http://tokenchanger.io/) |   | [![alt text][whitepaper]](https://medium.com/tokenchanger/token-changer-whitepaper-18c0e7227c25) |   | (dev) | multi protocol |   | | | | |
 | Token Jar | [![alt text][web]](https://tokenjar.io/) |   |   | `FULLY` | (operating - kovan test) | 0x protocol |   |   |   |   |   |
 | Tokenlon | [![alt text][web]](https://tokenlon.token.im/tokenlon) | [![alt text][github]](https://github.com/consenlabs/tokenlon-sdk)  |   | `FULLY` | (operating) | 0x protocol & Kyber.Network protocol |   |   |   |   |   |
@@ -335,10 +346,12 @@ If you know in details or are you the owner/dev of any DEX, please fill the colu
 ## DEX Order Tracker:
 
 [https://etherscan.io/dextracker](https://etherscan.io/dextracker)
+[https://0xtracker.com/trades](https://0xtracker.com/trades)
 
 ## DEX Trackers Statistics:
 
 [https://etherscan.io/stat/dextracker](https://etherscan.io/stat/dextracker)
+[https://0xtracker.com](https://0xtracker.com/relays)
 
 ## Protocols for Decentralized Exchange
 
